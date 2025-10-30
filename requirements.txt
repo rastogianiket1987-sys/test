@@ -1,0 +1,15 @@
+openai
+anthropic
+IPython
+ipykernel
+google-generativeai
+dotenv
+PyPDF2
+gradio
+pydantic
+requests
+uv
+openai-agents
+sib-api-v3-sdk
+IPython
+mcp-server-fetch
